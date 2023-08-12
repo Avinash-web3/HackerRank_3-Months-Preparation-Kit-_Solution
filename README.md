@@ -1,7 +1,7 @@
 # HackerRank_3-Months-Preparation-Kit-_Solution_in_JavaScript
 | ID |   Title     |  Solution  | Time | Space  | Difficulty  | Tag  |  Note |
 | :-------- | :------- | :--------  |  :----------  |  :----------- |  :----------  |  :----------  |  :----------- |
-| 1      | [Plus Minus](https://github.com/Avinash-web3/HackerRank_3-Months-Preparation-Kit-_Solution_in_JavaScript/blob/main/HackerRank/PlusMinus.js)  
+| 1      |    [Plus Minus](https://www.hackerrank.com/challenges/three-month-preparation-kit-plus-minus/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one)    |[JavaScript](https://github.com/Avinash-web3/HackerRank_3-Months-Preparation-Kit-_Solution_in_JavaScript/blob/main/HackerRank/PlusMinus.js)  
 | 2      |  [Mini-Max Sum](https://github.com/Avinash-web3/HackerRank_3-Months-Preparation-Kit-_Solution_in_JavaScript/blob/main/HackerRank/Mini-MaxSum.js) 
 | 3      | [Time Conversion](https://github.com/Avinash-web3/HackerRank_3-Months-Preparation-Kit-_Solution_in_JavaScript/blob/main/HackerRank/TimeConversion.js)
 |  4    |  [Breaking the Records](https://github.com/Avinash-web3/HackerRank_3-Months-Preparation-Kit-_Solution_in_JavaScript/blob/main/HackerRank/BreakingtheRecords.js)
